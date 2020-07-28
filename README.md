@@ -7,5 +7,6 @@
 mehmet@XX:~$summary
 ```
 ![alt text](http://status.mehmet.ninja/ "Status")
+<img src="http://status.mehmet.ninja/" width="256" height="64" alt="Status">
 - [Refresh to see the change](https://www.google.com)
 - You can find more details in Installation.md

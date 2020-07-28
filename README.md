@@ -1,16 +1,11 @@
-### Hi there 👋
+# Welcome to my Profile
+#### I made a live server status widget in my profile just 4 fun :)
+##### image is being created right after requested by client
+#
 
-<!--
-**6mc/6mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```sh
+mehmet@XX:~$summary
+```
+![alt text](http://status.mehmet.ninja/ "Status")
+- [Refresh to see the change](https://www.google.com)
+- You can find more details in Installation.md

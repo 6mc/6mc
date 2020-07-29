@@ -6,7 +6,9 @@
 ```sh
 mehmet@XX:~$summary
 ```
-![alt text](http://status.mehmet.ninja/ "Status")
-<img src="http://status.mehmet.ninja/" width="256" height="64" alt="Status">
+![alt text](http://status.mehmet.ninja/image.jpg "Status")
 - [Refresh to see the change](https://www.google.com)
+<a href="http://status.mehmet.ninja/">
+    <img src="http://status.mehmet.ninja/image.jpg" width="256" height="64" alt="Now Playing">
+</a>
 - You can find more details in Installation.md

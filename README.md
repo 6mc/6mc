@@ -1,11 +1,12 @@
 # Welcome to my Profile
 #### I made a live server status widget in my profile just 4 fun :)
 ##### image is being created right after requested by client
-##### Currently. Github fails to cache the image :(. so you can see the picture clicking [Here!](http://status.mehmet.ninja/)
+##### Currently. Github caches the image :(. so you can see the picture clicking [Here!](https://mehmet.ninja/status/)
 
 ```sh
 mehmet@XX:~$summary
 ```
-![Status](https://mehmet.ninja/status/ "Status")
+
+ <img src="https://mehmet.ninja/status/"  alt="Now Playing">
 - [Refresh to see the change](https://github.com/6mc)
 - You can find more details in Installation.md

@@ -6,7 +6,6 @@
 ```sh
 mehmet@XX:~$summary
 ```
-![Status](http://status.mehmet.ninja/ "Status")
+![Status](https://mehmet.ninja/status/ "Status")
 - [Refresh to see the change](https://github.com/6mc)
-<img src="http://status.mehmet.ninja/image.png">
 - You can find more details in Installation.md

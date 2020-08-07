@@ -8,6 +8,6 @@ mehmet@XX:~$summary
 ```
 
  <img src="https://mehmet.ninja/status/"  alt="Current Status">
-- [Refresh to see the change](https://github.com/6mc)
-- You can find more details in Installation.md
-- [Source]("https://github.com/6mc/6mc/blob/master/index.js")
+ - You can find more details in Installation.md
+ <a href="https://mehmet.ninja/status/">Refresh to see difference</a>
+<a href="https://github.com/6mc/6mc/blob/master/index.js">Source</a>

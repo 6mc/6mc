@@ -9,5 +9,5 @@ mehmet@XX:~$summary
 
  <img src="https://mehmet.ninja/status/"  alt="Current Status">
  - You can find more details in Installation.md
- <a href="https://mehmet.ninja/status/">Refresh to see difference</a>
-<a href="https://github.com/6mc/6mc/blob/master/index.js">Source</a>
+ - <a href="https://mehmet.ninja/status/">Refresh to see difference</a>
+ - <a href="https://github.com/6mc/6mc/blob/master/index.js">Source</a>

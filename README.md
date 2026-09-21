@@ -5,8 +5,6 @@ I love coding Machine Learning. NOT AI. and I'm interested in Biotech
 
 Reverse Engineering & App security
 
-*fork bombed my neighbors robo cleaner* 
-
 ##  Here is the md5 hash of my full DNA Sequence
 
 ```sh

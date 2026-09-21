@@ -7,7 +7,7 @@ Reverse Engineering & App security
 
 *fork bombed my neighbors robo cleaner* 
 
-##  Here is a md5 hash of my full DNA Sequence
+##  Here is the md5 hash of my full DNA Sequence
 
 ```sh
 

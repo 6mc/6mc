@@ -1,9 +1,7 @@
 
 #  Hey I'm Mehmet
 
-I love coding Machine Learning. NOT AI. and I'm interested in Biotech
-
-Reverse Engineering & App security
+Based in Sofia-BG
 
 ##  md5 checksum of full DNA Sequence
 
